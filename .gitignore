@@ -4,4 +4,3 @@ debinarizedData.npy
 labeled.npy
 unlabeled.npy
 smaller_unlabeled.npy
-smaller_unlabeled_test.npy
