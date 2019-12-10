@@ -1,6 +1,6 @@
 venv/
 debinarizedData.npy
-
+.ipynb_checkpoints/
 labeled.npy
 unlabeled.npy
 smaller_unlabeled.npy
